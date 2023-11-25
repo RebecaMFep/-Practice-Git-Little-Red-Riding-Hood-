@@ -31,7 +31,7 @@ h2 {
 .paragraph {
     font-family: cursive;
     font-size: 30px;
-    margin: 150px 30px 30px 150px;
+    margin: 100px 30px 30px 100px;
    
 }
 
@@ -73,3 +73,27 @@ h2 {
     margin-right: 30px;
     float: left; 
 }
+
+.chapter_3{
+    background-color: rgb(142, 250, 214);
+    padding-bottom: 270px;
+}
+
+#loboAbuelita {
+    width: 400px;
+    height: 300px;
+    border-radius: 10%;
+    margin-left: 30px;
+    margin-right: 30px;
+    float: left; 
+}
+
+#loboAcostado {
+    width: 400px;
+    height: 300px;
+    border-radius: 10%;
+    margin-left: 30px;
+    margin-right: 30px;
+    float: right; 
+}
+
